@@ -12,7 +12,7 @@ Abirami Astrology is a **Windows-based horoscope generation software** that allo
 ✅ **Optimized for All Windows Versions** – Supports **Windows 7 (32-bit & 64-bit) to Windows 11**  
 
 ## **📥 How to Install & Use**  
-1️⃣ **Download the latest release** from the [Releases](https://github.com/your-repository/releases) section.  
+1️⃣ **Download the latest release** from the [Releases](https://github.com/tg-darkespyt/Vakyam-Tamil-Horoscope/releases) section.  
 2️⃣ Run the **setup file** and complete the installation.  
 3️⃣ Open the software and enter your **Name, DOB, TOB, POB, and Gender**.  
 4️⃣ Click **"Generate Horoscope"** to get the results instantly!  
@@ -26,6 +26,6 @@ Abirami Astrology is a **Windows-based horoscope generation software** that allo
 ## **📌 Contribution & Support**  
 Have suggestions or found a bug? **Open an issue** or **submit a pull request** on GitHub. Your contributions are always welcome!  
 
-🔗 **GitHub Repository:** [Vakkiam Tamil Horoscope](https://github.com/tg-darkespyt/Vakkiam-Tamil-Horoscope.git)  
+🔗 **GitHub Repository:** [Vakyam Tamil Horoscope](https://github.com/tg-darkespyt/Vakyam-Tamil-Horoscope.git)  
 
 🌟 **Like this project?** Don't forget to ⭐ star the repository! 🚀  
